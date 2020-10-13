@@ -1,0 +1,97 @@
+
+#header {
+    margin: 20px auto 20px auto;
+    border: 10px double lightblue;
+    background-color:white;
+    border-width: 10px;
+    height: 150px;
+    
+    }
+
+#logo{
+    margin-top: 5px;
+    float: left;
+    width: 120px;
+    
+}
+
+
+nav{
+    float: right;
+width: 1200px;
+    margin-top: 5px;
+    
+}
+
+#op{
+    padding-top: 90px;
+    float: left;
+    margin-top: 20px;
+        width: 300px;
+
+}
+
+#opp {
+    display: inline;
+    margin-right: 10px;
+        }
+
+#search{
+  
+    float: right;
+    border: 1px solid black;
+
+    
+}
+
+
+
+#p{
+    height: 40%;
+    width: 47%;
+    background-color: lightblue;
+    padding: 10px;
+    margin-left: 290px;
+    
+        
+}
+#andre{
+    float: right;
+}
+#p2{
+    height: 40%;
+    width: 50%;
+    background-color: lightblue;
+    float: right;
+    padding: 10px;
+    margin-right: 280px;
+   
+}
+#s {
+    margin-top: 350px;
+    border-top: 10px solid skyblue;
+    border-bottom: 10px solid skyblue;
+    padding-left: 25%;
+}
+#bil{
+  float: left;
+   
+    
+}
+#ul2 {
+    margin-right: 650px;
+    margin-top: 110px;
+    margin-bottom: 50px;
+    float: right;
+    
+   
+}
+#ul2 li {
+     padding-top: 20px;
+}
+#p3{
+    border: 2px double skyblue;
+    margin-left: 45%;
+    margin-right: 20%;
+    padding: 10px;
+}
