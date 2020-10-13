@@ -1,0 +1,54 @@
+#header {
+    margin: 20px auto 20px auto;
+    border: 10px double lightblue;
+    background-color:white;
+    border-width: 10px;
+    height: 150px;
+    
+    }
+#logo{
+    margin-top: 5px;
+    float: left;
+    width: 120px;
+    
+}
+#op{
+    padding-top: 90px;
+    float: left;
+    margin-top: 20px;
+    width: 300px;
+
+}
+#opp {
+    display: inline;
+    margin-right: 10px;
+        }
+#search{
+  
+    float: right;
+    
+}
+#kort{
+  
+    height: 340px;
+    margin-top: 80px;
+}
+#adgangskort{
+    
+    margin-left: 30%;
+    margin-bottom: 70px;
+    margin-top: 0px;
+}
+#benefit{
+    border-bottom: 4px double skyblue;
+    margin-top: 99px;
+    margin-left: 35%;
+}
+
+h3{
+    margin-left: 30%;
+}
+#key{
+    margin-left: 30%;
+    margin-bottom: 60px;
+}
